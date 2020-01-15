@@ -1,5 +1,5 @@
 #  May 2019 R users UCI Hackathon
-watRinspectR
+watRinspectR - Ben Lewis, [@LeondraJames](https://github.com/LeondraJames), [@ethchr](https://github.com/ethchr), Mark Dela, Sarah Stewart
 
 Team Award - Best Insight
 
