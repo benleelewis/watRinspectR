@@ -3,7 +3,7 @@ watRinspectR - Ben Lewis, [@LeondraJames](https://github.com/LeondraJames), [@et
 
 Team Award - Best Insight
 
-24 hour competition with no prior collaboration
+24 hour competition with no prior collaboration - https://github.com/ocrug/hackathon-2019-05
 
 ![data](https://github.com/benleelewis/watRinspectR/blob/master/Rplot01.png)
 
